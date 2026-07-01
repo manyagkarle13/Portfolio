@@ -10,7 +10,7 @@ Information Science and Engineering student at Malnad College of Engineering (VT
 
 ## 🚀 Featured Projects
 
-- **[Project DNA](https://project-dna.onrender.com)** — AI-powered GitHub codebase agent with RAG pipeline and semantic code search (Django, React, Groq, PostgreSQL) | [GitHub](https://github.com/manyagkarle13/Project-DNA)
+- **[Project DNA](https://projectdna-aicoding-agent.netlify.app/)** — AI-powered GitHub codebase agent with RAG pipeline and semantic code search (Django, React, Groq, PostgreSQL) 
 - **[InterviewGuard AI](https://interviewguard-ai-simulator.netlify.app)** — Voice-first AI interview simulator with real-time computer vision proctoring (React, MediaPipe, TensorFlow.js)
 - **[JobSphere](https://jobspherewebapplication.netlify.app/)** — Full-stack job board with candidate/employer dashboards, resume applications, and email notifications (MERN stack) — built for CodSoft Web Dev Internship
 - **[Medication Reminder App](https://medication-frontend-0bj3.onrender.com)** — Full-stack medication tracker with VAPID Web Push notifications (Django, Next.js)
