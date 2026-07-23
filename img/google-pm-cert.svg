@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="100%" height="100%">
+  <!-- Base Background -->
+  <rect width="800" height="600" fill="#FFFFFF"/>
+
+  <!-- Left Sidebar Banner Background -->
+  <rect x="0" y="0" width="185" height="600" fill="#E8EEF5"/>
+  <rect x="0" y="0" width="185" height="145" fill="#C5D3E4"/>
+
+  <!-- Coursera Seal Header on Left -->
+  <g transform="translate(92, 72)">
+    <circle cx="0" cy="0" r="52" fill="none" stroke="#2D3748" stroke-width="2.5" stroke-dasharray="3,2"/>
+    <circle cx="0" cy="0" r="46" fill="none" stroke="#2D3748" stroke-width="1.5"/>
+    <text x="0" y="-22" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" font-weight="700" fill="#2D3748" text-anchor="middle" letter-spacing="1">LEARNING WITHOUT LIMITS</text>
+    <text x="0" y="5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="800" fill="#0056D2" text-anchor="middle">coursera</text>
+    <text x="0" y="24" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" font-weight="700" fill="#2D3748" text-anchor="middle" letter-spacing="0.5">PROFESSIONAL CERTIFICATE</text>
+  </g>
+
+  <!-- Ribbon Tag: 7 Courses -->
+  <path d="M 24 145 L 161 145 L 161 240 L 130 220 L 92 240 L 54 220 L 24 240 Z" fill="#2E4A62"/>
+  <text x="92" y="172" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle">7 Courses</text>
+
+  <!-- List of 7 Courses in Left Column -->
+  <g transform="translate(20, 260)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8.5" font-weight="600" fill="#2D3748">
+    <text x="0" y="0">Foundations of Project</text>
+    <text x="0" y="11">Management</text>
+
+    <text x="0" y="32">Project Initiation: Starting a</text>
+    <text x="0" y="43">Successful Project</text>
+
+    <text x="0" y="64">Project Planning: Putting It</text>
+    <text x="0" y="75">All Together</text>
+
+    <text x="0" y="96">Project Execution: Running</text>
+    <text x="0" y="107">the Project</text>
+
+    <text x="0" y="128">Agile Project Management</text>
+
+    <text x="0" y="149">Capstone: Applying Project</text>
+    <text x="0" y="160">Management in the Real World</text>
+
+    <text x="0" y="181">Accelerate Your Job Search</text>
+    <text x="0" y="192">with AI</text>
+  </g>
+
+  <!-- Right Watermark Guilloche Pattern Circles -->
+  <g opacity="0.04" stroke="#000000" stroke-width="1" fill="none">
+    <circle cx="650" cy="300" r="220"/>
+    <circle cx="650" cy="300" r="200"/>
+    <circle cx="650" cy="300" r="180"/>
+    <circle cx="650" cy="300" r="160"/>
+    <circle cx="650" cy="300" r="140"/>
+    <circle cx="650" cy="300" r="120"/>
+  </g>
+
+  <!-- Main Content Area -->
+  <!-- Google Logo Box -->
+  <g transform="translate(210, 25)">
+    <rect width="110" height="110" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="2" rx="4"/>
+    <!-- Google 4-Color G -->
+    <g transform="translate(25, 25)">
+      <path d="M57.6 30c0-2.1-.2-4.1-.6-6H30v11.4h15.5c-.7 3.7-2.7 6.8-5.8 8.9v7.4h9.4c5.5-5.1 8.7-12.6 8.7-21.7z" fill="#4285F4"/>
+      <path d="M30 58c7.8 0 14.4-2.6 19.2-7l-9.4-7.4c-2.6 1.7-6 2.8-9.8 2.8-7.5 0-13.9-5.1-16.2-12H4.2v7.6C9 51.5 18.8 58 30 58z" fill="#34A853"/>
+      <path d="M13.8 34.4c-.6-1.7-.9-3.6-.9-5.4s.3-3.7.9-5.4V16H4.2C1.5 21.3 0 25.5 0 30s1.5 8.7 4.2 14l9.6-7.6z" fill="#FBBC05"/>
+      <path d="M30 11.6c4.3 0 8.1 1.5 11.1 4.4l8.3-8.3C44.3 3 37.8 0 30 0 18.8 0 9 6.5 4.2 16l9.6 7.6c2.3-6.9 8.7-12 16.2-12z" fill="#EA4335"/>
+    </g>
+  </g>
+
+  <!-- Date -->
+  <text x="210" y="168" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" fill="#64748B">Jul 23, 2026</text>
+
+  <!-- Name -->
+  <text x="210" y="208" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="28" font-weight="800" fill="#0F172A">Manya G Karle</text>
+
+  <!-- Subtitle -->
+  <text x="210" y="235" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" fill="#475569">has successfully completed the online Professional Certificate</text>
+
+  <!-- Certificate Main Title -->
+  <text x="210" y="285" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="34" font-weight="900" fill="#0F172A">Google Project</text>
+  <text x="210" y="325" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="34" font-weight="900" fill="#0F172A">Management</text>
+
+  <!-- Description Text -->
+  <g transform="translate(210, 355)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" fill="#475569">
+    <text x="0" y="0">Those who earn the Google Project Management Certificate have</text>
+    <text x="0" y="18">completed seven courses, developed by Google, that include hands-</text>
+    <text x="0" y="36">on, practice-based assessments and are designed to prepare them for</text>
+    <text x="0" y="54">introductory-level roles in Project Management. They are competent in</text>
+    <text x="0" y="72">initiating, planning and running both traditional and agile projects.</text>
+  </g>
+
+  <!-- Signature Section -->
+  <g transform="translate(610, 175)">
+    <!-- Signature script rendering -->
+    <path d="M 0 10 Q 15 -10 30 10 T 60 5 T 90 12" stroke="#1E293B" stroke-width="1.8" fill="none"/>
+    <text x="0" y="30" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="700" fill="#1E293B">Amanda Brophy</text>
+    <text x="0" y="44" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#64748B">Global Director of</text>
+    <text x="0" y="56" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#64748B">Google Career</text>
+    <text x="0" y="68" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#64748B">Certificates</text>
+  </g>
+
+  <!-- Verification Link Text at Bottom Right -->
+  <g transform="translate(610, 535)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#64748B">
+    <text x="0" y="0">Verify this certificate at:</text>
+    <text x="0" y="14" fill="#0056D2" text-decoration="underline">https://coursera.org/verify/profession</text>
+    <text x="0" y="26" fill="#0056D2" text-decoration="underline">al-cert/BIDDYCN3VXEB</text>
+  </g>
+
+</svg>
